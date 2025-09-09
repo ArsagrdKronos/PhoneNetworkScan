@@ -57,7 +57,7 @@ pip install phonenumbers keyboard pandas tabulate colorama requests
 
 ## Example
 ```bash
-$ python RegisterPhone.py
+$ python PhoneNetworkScan.py
 ```
 - Select "Scan Single Number" and enter `+48123456789`.
 - View detailed output including country, carrier, and geolocation.
